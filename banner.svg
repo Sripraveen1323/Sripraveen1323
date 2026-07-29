@@ -1,0 +1,52 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="45%" stop-color="#12244a"/>
+      <stop offset="100%" stop-color="#2E9EF7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E9EF7"/>
+      <stop offset="100%" stop-color="#7ee0ff"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- decorative circles -->
+  <circle cx="1050" cy="60" r="120" fill="#2E9EF7" opacity="0.12" filter="url(#soft)"/>
+  <circle cx="1120" cy="240" r="90" fill="#7ee0ff" opacity="0.10" filter="url(#soft)"/>
+  <circle cx="120" cy="250" r="80" fill="#2E9EF7" opacity="0.10" filter="url(#soft)"/>
+
+  <!-- dotted grid accent -->
+  <g fill="#7ee0ff" opacity="0.25">
+    <circle cx="60"  cy="60" r="3"/>
+    <circle cx="90"  cy="60" r="3"/>
+    <circle cx="120" cy="60" r="3"/>
+    <circle cx="60"  cy="90" r="3"/>
+    <circle cx="90"  cy="90" r="3"/>
+    <circle cx="60"  cy="120" r="3"/>
+  </g>
+
+  <!-- name -->
+  <text x="80" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">
+    Sri Praveen Godavarthi
+  </text>
+
+  <!-- accent underline -->
+  <rect x="82" y="158" width="360" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <!-- subtitle -->
+  <text x="82" y="205" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#c9d6ee">
+    Software Developer  &#8226;  Python &amp; Full-Stack Enthusiast
+  </text>
+
+  <!-- tag line -->
+  <text x="82" y="245" font-family="'Fira Code', Consolas, monospace" font-size="18" fill="#7ee0ff">
+    &lt; building practical software, end to end /&gt;
+  </text>
+</svg>
