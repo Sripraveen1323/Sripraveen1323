@@ -1,10 +1,10 @@
 <!-- ======================= HEADER ======================= -->
-<!-- Self-hosted banner: commit banner.svg to the root of your Sripraveen1323 repo --> <img width="100%" src="https://raw.githubusercontent.com/Sripraveen1323/Sripraveen1323/main/banner.svg" alt="Sri Praveen Godavarthi - Software Developer"/> <!--
+<!-- Self-hosted banner: commit banner.svg to the root of your Sripraveen1323 repo --> <img width="100%" src="https://raw.githubusercontent.com/Sripraveen1323/Sripraveen1323/main/main/banner.svg" alt="Sri Praveen Godavarthi - Software Developer"/>
 
 <!-- ======================= TYPING ANIMATION ======================= -->
 <p align="center">
   <a href="https://github.com/Sripraveen1323">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=560&lines=Building+practical+software+end-to-end;Python+%7C+JavaScript+%7C+Full-Stack;Turning+real+problems+into+clean+code" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=560&lines=Building+practical+software+end-to-end+%26+Full-Stack+Enthusiast+%7CPython+%2B+JavaScript+%7C+JavaScript+%2B+Full-Stack;Turning+real+problems+into+clean+code"/>
   </a>
 </p>
 
