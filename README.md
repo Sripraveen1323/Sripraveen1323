@@ -1,5 +1,5 @@
 <!-- ======================= HEADER ======================= -->
-<!-- Self-hosted banner: commit banner.svg to the root of your Sripraveen1323 repo --> <img width="100%" src="https://raw.githubusercontent.com/Sripraveen1323/Sripraveen1323/main/main/banner.svg" alt="Sri Praveen Godavarthi - Software Developer"/>
+<!-- Self-hosted banner: commit banner.svg to the root of your Sripraveen1323 repo --> <img width="100%" src="https://raw.githubusercontent.com/Sripraveen1323/Sripraveen1323/main/banner.svg" alt="Sri Praveen Godavarthi - Software Developer"/>
 
 <!-- ======================= TYPING ANIMATION ======================= -->
 <p align="center">
