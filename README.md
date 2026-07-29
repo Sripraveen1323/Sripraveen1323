@@ -1,5 +1,5 @@
 <!-- ======================= HEADER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sri%20Praveen%20Godavarthi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%26%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18" alt="header"/>
+<!-- Self-hosted banner: commit banner.svg to the root of your Sripraveen1323 repo --> <img width="100%" src="https://raw.githubusercontent.com/Sripraveen1323/Sripraveen1323/main/banner.svg" alt="Sri Praveen Godavarthi - Software Developer"/> <!--
 
 <!-- ======================= TYPING ANIMATION ======================= -->
 <p align="center">
