@@ -1,10 +1,11 @@
 <!-- ======================= HEADER ======================= -->
-<!-- Self-hosted banner: commit banner.svg to the root of your Sripraveen1323 repo --> <img width="100%" src="https://raw.githubusercontent.com/Sripraveen1323/Sripraveen1323/main/banner.svg" alt="Sri Praveen Godavarthi - Software Developer"/>
+<!-- Self-hosted banner: commit banner.svg to the root of your Sripraveen1323 repo -->
+<img width="100%" src="https://raw.githubusercontent.com/Sripraveen1323/Sripraveen1323/main/banner.svg" alt="Sri Praveen Godavarthi - Software Developer"/>
 
 <!-- ======================= TYPING ANIMATION ======================= -->
 <p align="center">
   <a href="https://github.com/Sripraveen1323">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=560&lines=Building+practical+software+end-to-end+%26+Full-Stack+Enthusiast+%7CPython+%2B+JavaScript+%7C+JavaScript+%2B+Full-Stack;Turning+real+problems+into+clean+code"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Full-Stack+Enthusiast;Java+Backend+%7C+Python+%7C+JavaScript;Currently+exploring+AI+%26+Data" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -30,9 +31,11 @@
 <!-- ======================= ABOUT ME ======================= -->
 ## 👨‍💻 About Me
 
-- 🔭 &nbsp;I build practical applications with **Python** and **JavaScript** — from backend systems to interactive web frontends.
+- 🔭 &nbsp;I build practical applications across the stack — strong in **Java** and **Python** backends, with **JavaScript** on the front end.
 
-- 🌱 &nbsp;Currently deepening my skills in **Machine Learning, data-driven apps, and full-stack development**.
+- ☕ &nbsp;Experienced in **Java backend development** — building APIs, business logic, and database-driven systems.
+
+- 🌱 &nbsp;Currently learning **Artificial Intelligence, Machine Learning, and Data-related technologies**.
 
 - 💡 &nbsp;I enjoy turning real-world problems into clean, working software — banking systems, inventory management, and predictive models.
 
@@ -46,7 +49,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,mysql&perline=8" alt="skill icons"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,mysql&perline=9" alt="skill icons"/>
 </p>
 
 <br/>
@@ -54,40 +57,41 @@
 <!-- ======================= FEATURED PROJECTS ======================= -->
 ## 📌 Featured Projects
 
-<table>
+<table cellspacing="0" cellpadding="14">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏦 Bank Management System</h3>
-      <p align="center">
-        <a href="https://github.com/Sripraveen1323/Bank_Management_System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sripraveen1323&repo=Bank_Management_System&theme=tokyonight&hide_border=true" alt="Bank Management System"/>
-        </a>
+      <h3>🏦 <a href="https://github.com/Sripraveen1323/Bank_Management_System">Bank Management System</a></h3>
+      <p>Complete banking app — a Python (standard-library) backend, a flat-file JSON database, and a web frontend for accounts, deposits, transfers, statements, and an admin dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌍 GHG Emissions Predictor</h3>
-      <p align="center">
-        <a href="https://github.com/Sripraveen1323/GHG_Emissions_Predictor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sripraveen1323&repo=GHG_Emissions_Predictor&theme=tokyonight&hide_border=true" alt="GHG Emissions Predictor"/>
-        </a>
+      <h3>🌍 <a href="https://github.com/Sripraveen1323/GHG_Emissions_Predictor">GHG Emissions Predictor</a></h3>
+      <p>A data-driven model that predicts greenhouse-gas emissions to support environmental analysis and decision-making.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML"/>
       </p>
     </td>
   </tr>
   <tr>
+    <td colspan="2"><br/></td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📦 Telecom Inventory Management</h3>
-      <p align="center">
-        <a href="https://github.com/Sripraveen1323/Telecom_Inventory_Management">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sripraveen1323&repo=Telecom_Inventory_Management&theme=tokyonight&hide_border=true" alt="Telecom Inventory Management"/>
-        </a>
+      <h3>📦 <a href="https://github.com/Sripraveen1323/Telecom_Inventory_Management">Telecom Inventory Management</a></h3>
+      <p>An inventory management system for tracking telecom assets, stock levels, and equipment records.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">✅ To-Do List</h3>
-      <p align="center">
-        <a href="https://github.com/Sripraveen1323/To-Do-List">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sripraveen1323&repo=To-Do-List&theme=tokyonight&hide_border=true" alt="To-Do List"/>
-        </a>
+      <h3>✅ <a href="https://github.com/Sripraveen1323/To-Do-List">To-Do List</a></h3>
+      <p>A clean, interactive task manager built with vanilla JavaScript — add, complete, and remove tasks with a responsive UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
     </td>
   </tr>
@@ -99,25 +103,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sripraveen1323&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sripraveen1323&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sripraveen1323&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sripraveen1323&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<br/>
-
-<!-- ======================= TROPHIES ======================= -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sripraveen1323&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </p>
 
 <br/>
@@ -135,5 +125,3 @@
 <p align="center">
   <em>Thanks for visiting! Feel free to explore my repositories and connect. ⭐</em>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
