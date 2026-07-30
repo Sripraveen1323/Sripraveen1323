@@ -5,7 +5,7 @@
 <!-- ======================= TYPING ANIMATION ======================= -->
 <p align="center">
   <a href="https://github.com/Sripraveen1323">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Full-Stack[...]"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Full-Stack[..]"/>
   </a>
 </p>
 
@@ -103,7 +103,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sripraveen1323&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sripraveen1323&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
