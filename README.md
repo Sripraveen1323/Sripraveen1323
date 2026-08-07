@@ -49,7 +49,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,python,tensorflow,pytorch,mysql,git,github,vscode,docker,jenkins,postman,js,linux,ai,mongodb&perline=9" alt="skill icons"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,python,tensorflow,pytorch,mysql,git,github,vscode,docker,jenkins,postman,js,linux,ai,mongodb&perline=6" alt="skill icons"/>
 </p>
 
 <br/>
