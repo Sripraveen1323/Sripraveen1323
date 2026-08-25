@@ -5,7 +5,7 @@
 <!-- ======================= TYPING ANIMATION ======================= -->
 <p align="center">
   <a href="https://github.com/Sripraveen1323">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer;Java+Backend+%[..]"  alt=""/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer;Java+Backend+%[...]
   </a>
 </p>
 
@@ -106,7 +106,7 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sripraveen1323&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sripraveen1323&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph"/>
 </p>
 
 <br/>
