@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-contribution-graph.vercel.app/api/contribution?username=Sripraveen1323&bg_color=0D1117" alt="Contribution Graph"/>
+  <img width="80%" src="https://ghchart.rshah.org/Sripraveen1323" alt="GitHub contribution graph"/>
 </p>
 
 <br/>
